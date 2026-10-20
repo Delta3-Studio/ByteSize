@@ -1,0 +1,997 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: System
+  name: System
+  href: api/System.html
+  commentId: N:System
+  fullName: System
+  nameWithType: System
+- uid: System.ByteSize
+  name: ByteSize
+  href: api/System.ByteSize.html
+  commentId: T:System.ByteSize
+  fullName: System.ByteSize
+  nameWithType: ByteSize
+- uid: System.ByteSize.#ctor(System.Int64)
+  name: ByteSize(long)
+  href: api/System.ByteSize.html#System_ByteSize__ctor_System_Int64_
+  commentId: M:System.ByteSize.#ctor(System.Int64)
+  name.vb: New(Long)
+  fullName: System.ByteSize.ByteSize(long)
+  fullName.vb: System.ByteSize.New(Long)
+  nameWithType: ByteSize.ByteSize(long)
+  nameWithType.vb: ByteSize.New(Long)
+- uid: System.ByteSize.#ctor*
+  name: ByteSize
+  href: api/System.ByteSize.html#System_ByteSize__ctor_
+  commentId: Overload:System.ByteSize.#ctor
+  name.vb: New
+  fullName: System.ByteSize.ByteSize
+  fullName.vb: System.ByteSize.New
+  nameWithType: ByteSize.ByteSize
+  nameWithType.vb: ByteSize.New
+- uid: System.ByteSize.BitsToBytes(System.UInt16)
+  name: BitsToBytes(ushort)
+  href: api/System.ByteSize.html#System_ByteSize_BitsToBytes_System_UInt16_
+  commentId: M:System.ByteSize.BitsToBytes(System.UInt16)
+  name.vb: BitsToBytes(UShort)
+  fullName: System.ByteSize.BitsToBytes(ushort)
+  fullName.vb: System.ByteSize.BitsToBytes(UShort)
+  nameWithType: ByteSize.BitsToBytes(ushort)
+  nameWithType.vb: ByteSize.BitsToBytes(UShort)
+- uid: System.ByteSize.BitsToBytes*
+  name: BitsToBytes
+  href: api/System.ByteSize.html#System_ByteSize_BitsToBytes_
+  commentId: Overload:System.ByteSize.BitsToBytes
+  fullName: System.ByteSize.BitsToBytes
+  nameWithType: ByteSize.BitsToBytes
+- uid: System.ByteSize.ByteSymbol
+  name: ByteSymbol
+  href: api/System.ByteSize.html#System_ByteSize_ByteSymbol
+  commentId: F:System.ByteSize.ByteSymbol
+  fullName: System.ByteSize.ByteSymbol
+  nameWithType: ByteSize.ByteSymbol
+- uid: System.ByteSize.ByteToBits
+  name: ByteToBits
+  href: api/System.ByteSize.html#System_ByteSize_ByteToBits
+  commentId: F:System.ByteSize.ByteToBits
+  fullName: System.ByteSize.ByteToBits
+  nameWithType: ByteSize.ByteToBits
+- uid: System.ByteSize.Bytes
+  name: Bytes
+  href: api/System.ByteSize.html#System_ByteSize_Bytes
+  commentId: P:System.ByteSize.Bytes
+  fullName: System.ByteSize.Bytes
+  nameWithType: ByteSize.Bytes
+- uid: System.ByteSize.Bytes*
+  name: Bytes
+  href: api/System.ByteSize.html#System_ByteSize_Bytes_
+  commentId: Overload:System.ByteSize.Bytes
+  fullName: System.ByteSize.Bytes
+  nameWithType: ByteSize.Bytes
+- uid: System.ByteSize.BytesToBits(System.UInt16)
+  name: BytesToBits(ushort)
+  href: api/System.ByteSize.html#System_ByteSize_BytesToBits_System_UInt16_
+  commentId: M:System.ByteSize.BytesToBits(System.UInt16)
+  name.vb: BytesToBits(UShort)
+  fullName: System.ByteSize.BytesToBits(ushort)
+  fullName.vb: System.ByteSize.BytesToBits(UShort)
+  nameWithType: ByteSize.BytesToBits(ushort)
+  nameWithType.vb: ByteSize.BytesToBits(UShort)
+- uid: System.ByteSize.BytesToBits*
+  name: BytesToBits
+  href: api/System.ByteSize.html#System_ByteSize_BytesToBits_
+  commentId: Overload:System.ByteSize.BytesToBits
+  fullName: System.ByteSize.BytesToBits
+  nameWithType: ByteSize.BytesToBits
+- uid: System.ByteSize.BytesToGibiByte
+  name: BytesToGibiByte
+  href: api/System.ByteSize.html#System_ByteSize_BytesToGibiByte
+  commentId: F:System.ByteSize.BytesToGibiByte
+  fullName: System.ByteSize.BytesToGibiByte
+  nameWithType: ByteSize.BytesToGibiByte
+- uid: System.ByteSize.BytesToGigaByte
+  name: BytesToGigaByte
+  href: api/System.ByteSize.html#System_ByteSize_BytesToGigaByte
+  commentId: F:System.ByteSize.BytesToGigaByte
+  fullName: System.ByteSize.BytesToGigaByte
+  nameWithType: ByteSize.BytesToGigaByte
+- uid: System.ByteSize.BytesToKibiByte
+  name: BytesToKibiByte
+  href: api/System.ByteSize.html#System_ByteSize_BytesToKibiByte
+  commentId: F:System.ByteSize.BytesToKibiByte
+  fullName: System.ByteSize.BytesToKibiByte
+  nameWithType: ByteSize.BytesToKibiByte
+- uid: System.ByteSize.BytesToKiloByte
+  name: BytesToKiloByte
+  href: api/System.ByteSize.html#System_ByteSize_BytesToKiloByte
+  commentId: F:System.ByteSize.BytesToKiloByte
+  fullName: System.ByteSize.BytesToKiloByte
+  nameWithType: ByteSize.BytesToKiloByte
+- uid: System.ByteSize.BytesToMebiByte
+  name: BytesToMebiByte
+  href: api/System.ByteSize.html#System_ByteSize_BytesToMebiByte
+  commentId: F:System.ByteSize.BytesToMebiByte
+  fullName: System.ByteSize.BytesToMebiByte
+  nameWithType: ByteSize.BytesToMebiByte
+- uid: System.ByteSize.BytesToMegaByte
+  name: BytesToMegaByte
+  href: api/System.ByteSize.html#System_ByteSize_BytesToMegaByte
+  commentId: F:System.ByteSize.BytesToMegaByte
+  fullName: System.ByteSize.BytesToMegaByte
+  nameWithType: ByteSize.BytesToMegaByte
+- uid: System.ByteSize.BytesToTebiByte
+  name: BytesToTebiByte
+  href: api/System.ByteSize.html#System_ByteSize_BytesToTebiByte
+  commentId: F:System.ByteSize.BytesToTebiByte
+  fullName: System.ByteSize.BytesToTebiByte
+  nameWithType: ByteSize.BytesToTebiByte
+- uid: System.ByteSize.BytesToTeraByte
+  name: BytesToTeraByte
+  href: api/System.ByteSize.html#System_ByteSize_BytesToTeraByte
+  commentId: F:System.ByteSize.BytesToTeraByte
+  fullName: System.ByteSize.BytesToTeraByte
+  nameWithType: ByteSize.BytesToTeraByte
+- uid: System.ByteSize.CompareTo(System.ByteSize)
+  name: CompareTo(ByteSize)
+  href: api/System.ByteSize.html#System_ByteSize_CompareTo_System_ByteSize_
+  commentId: M:System.ByteSize.CompareTo(System.ByteSize)
+  fullName: System.ByteSize.CompareTo(System.ByteSize)
+  nameWithType: ByteSize.CompareTo(ByteSize)
+- uid: System.ByteSize.CompareTo*
+  name: CompareTo
+  href: api/System.ByteSize.html#System_ByteSize_CompareTo_
+  commentId: Overload:System.ByteSize.CompareTo
+  fullName: System.ByteSize.CompareTo
+  nameWithType: ByteSize.CompareTo
+- uid: System.ByteSize.Deconstruct(System.Int64@)
+  name: Deconstruct(out long)
+  href: api/System.ByteSize.html#System_ByteSize_Deconstruct_System_Int64__
+  commentId: M:System.ByteSize.Deconstruct(System.Int64@)
+  name.vb: Deconstruct(Long)
+  fullName: System.ByteSize.Deconstruct(out long)
+  fullName.vb: System.ByteSize.Deconstruct(Long)
+  nameWithType: ByteSize.Deconstruct(out long)
+  nameWithType.vb: ByteSize.Deconstruct(Long)
+- uid: System.ByteSize.Deconstruct*
+  name: Deconstruct
+  href: api/System.ByteSize.html#System_ByteSize_Deconstruct_
+  commentId: Overload:System.ByteSize.Deconstruct
+  fullName: System.ByteSize.Deconstruct
+  nameWithType: ByteSize.Deconstruct
+- uid: System.ByteSize.Equals(System.ByteSize)
+  name: Equals(ByteSize)
+  href: api/System.ByteSize.html#System_ByteSize_Equals_System_ByteSize_
+  commentId: M:System.ByteSize.Equals(System.ByteSize)
+  fullName: System.ByteSize.Equals(System.ByteSize)
+  nameWithType: ByteSize.Equals(ByteSize)
+- uid: System.ByteSize.Equals(System.Object)
+  name: Equals(object)
+  href: api/System.ByteSize.html#System_ByteSize_Equals_System_Object_
+  commentId: M:System.ByteSize.Equals(System.Object)
+  name.vb: Equals(Object)
+  fullName: System.ByteSize.Equals(object)
+  fullName.vb: System.ByteSize.Equals(Object)
+  nameWithType: ByteSize.Equals(object)
+  nameWithType.vb: ByteSize.Equals(Object)
+- uid: System.ByteSize.Equals*
+  name: Equals
+  href: api/System.ByteSize.html#System_ByteSize_Equals_
+  commentId: Overload:System.ByteSize.Equals
+  fullName: System.ByteSize.Equals
+  nameWithType: ByteSize.Equals
+- uid: System.ByteSize.FromBytes(System.Int64)
+  name: FromBytes(long)
+  href: api/System.ByteSize.html#System_ByteSize_FromBytes_System_Int64_
+  commentId: M:System.ByteSize.FromBytes(System.Int64)
+  name.vb: FromBytes(Long)
+  fullName: System.ByteSize.FromBytes(long)
+  fullName.vb: System.ByteSize.FromBytes(Long)
+  nameWithType: ByteSize.FromBytes(long)
+  nameWithType.vb: ByteSize.FromBytes(Long)
+- uid: System.ByteSize.FromBytes*
+  name: FromBytes
+  href: api/System.ByteSize.html#System_ByteSize_FromBytes_
+  commentId: Overload:System.ByteSize.FromBytes
+  fullName: System.ByteSize.FromBytes
+  nameWithType: ByteSize.FromBytes
+- uid: System.ByteSize.FromGibiBytes(System.Double)
+  name: FromGibiBytes(double)
+  href: api/System.ByteSize.html#System_ByteSize_FromGibiBytes_System_Double_
+  commentId: M:System.ByteSize.FromGibiBytes(System.Double)
+  name.vb: FromGibiBytes(Double)
+  fullName: System.ByteSize.FromGibiBytes(double)
+  fullName.vb: System.ByteSize.FromGibiBytes(Double)
+  nameWithType: ByteSize.FromGibiBytes(double)
+  nameWithType.vb: ByteSize.FromGibiBytes(Double)
+- uid: System.ByteSize.FromGibiBytes*
+  name: FromGibiBytes
+  href: api/System.ByteSize.html#System_ByteSize_FromGibiBytes_
+  commentId: Overload:System.ByteSize.FromGibiBytes
+  fullName: System.ByteSize.FromGibiBytes
+  nameWithType: ByteSize.FromGibiBytes
+- uid: System.ByteSize.FromGigaBytes(System.Double)
+  name: FromGigaBytes(double)
+  href: api/System.ByteSize.html#System_ByteSize_FromGigaBytes_System_Double_
+  commentId: M:System.ByteSize.FromGigaBytes(System.Double)
+  name.vb: FromGigaBytes(Double)
+  fullName: System.ByteSize.FromGigaBytes(double)
+  fullName.vb: System.ByteSize.FromGigaBytes(Double)
+  nameWithType: ByteSize.FromGigaBytes(double)
+  nameWithType.vb: ByteSize.FromGigaBytes(Double)
+- uid: System.ByteSize.FromGigaBytes*
+  name: FromGigaBytes
+  href: api/System.ByteSize.html#System_ByteSize_FromGigaBytes_
+  commentId: Overload:System.ByteSize.FromGigaBytes
+  fullName: System.ByteSize.FromGigaBytes
+  nameWithType: ByteSize.FromGigaBytes
+- uid: System.ByteSize.FromKibiBytes(System.Double)
+  name: FromKibiBytes(double)
+  href: api/System.ByteSize.html#System_ByteSize_FromKibiBytes_System_Double_
+  commentId: M:System.ByteSize.FromKibiBytes(System.Double)
+  name.vb: FromKibiBytes(Double)
+  fullName: System.ByteSize.FromKibiBytes(double)
+  fullName.vb: System.ByteSize.FromKibiBytes(Double)
+  nameWithType: ByteSize.FromKibiBytes(double)
+  nameWithType.vb: ByteSize.FromKibiBytes(Double)
+- uid: System.ByteSize.FromKibiBytes*
+  name: FromKibiBytes
+  href: api/System.ByteSize.html#System_ByteSize_FromKibiBytes_
+  commentId: Overload:System.ByteSize.FromKibiBytes
+  fullName: System.ByteSize.FromKibiBytes
+  nameWithType: ByteSize.FromKibiBytes
+- uid: System.ByteSize.FromKiloByte(System.Double)
+  name: FromKiloByte(double)
+  href: api/System.ByteSize.html#System_ByteSize_FromKiloByte_System_Double_
+  commentId: M:System.ByteSize.FromKiloByte(System.Double)
+  name.vb: FromKiloByte(Double)
+  fullName: System.ByteSize.FromKiloByte(double)
+  fullName.vb: System.ByteSize.FromKiloByte(Double)
+  nameWithType: ByteSize.FromKiloByte(double)
+  nameWithType.vb: ByteSize.FromKiloByte(Double)
+- uid: System.ByteSize.FromKiloByte*
+  name: FromKiloByte
+  href: api/System.ByteSize.html#System_ByteSize_FromKiloByte_
+  commentId: Overload:System.ByteSize.FromKiloByte
+  fullName: System.ByteSize.FromKiloByte
+  nameWithType: ByteSize.FromKiloByte
+- uid: System.ByteSize.FromMebiBytes(System.Double)
+  name: FromMebiBytes(double)
+  href: api/System.ByteSize.html#System_ByteSize_FromMebiBytes_System_Double_
+  commentId: M:System.ByteSize.FromMebiBytes(System.Double)
+  name.vb: FromMebiBytes(Double)
+  fullName: System.ByteSize.FromMebiBytes(double)
+  fullName.vb: System.ByteSize.FromMebiBytes(Double)
+  nameWithType: ByteSize.FromMebiBytes(double)
+  nameWithType.vb: ByteSize.FromMebiBytes(Double)
+- uid: System.ByteSize.FromMebiBytes*
+  name: FromMebiBytes
+  href: api/System.ByteSize.html#System_ByteSize_FromMebiBytes_
+  commentId: Overload:System.ByteSize.FromMebiBytes
+  fullName: System.ByteSize.FromMebiBytes
+  nameWithType: ByteSize.FromMebiBytes
+- uid: System.ByteSize.FromMegaBytes(System.Double)
+  name: FromMegaBytes(double)
+  href: api/System.ByteSize.html#System_ByteSize_FromMegaBytes_System_Double_
+  commentId: M:System.ByteSize.FromMegaBytes(System.Double)
+  name.vb: FromMegaBytes(Double)
+  fullName: System.ByteSize.FromMegaBytes(double)
+  fullName.vb: System.ByteSize.FromMegaBytes(Double)
+  nameWithType: ByteSize.FromMegaBytes(double)
+  nameWithType.vb: ByteSize.FromMegaBytes(Double)
+- uid: System.ByteSize.FromMegaBytes*
+  name: FromMegaBytes
+  href: api/System.ByteSize.html#System_ByteSize_FromMegaBytes_
+  commentId: Overload:System.ByteSize.FromMegaBytes
+  fullName: System.ByteSize.FromMegaBytes
+  nameWithType: ByteSize.FromMegaBytes
+- uid: System.ByteSize.FromTebiBytes(System.Double)
+  name: FromTebiBytes(double)
+  href: api/System.ByteSize.html#System_ByteSize_FromTebiBytes_System_Double_
+  commentId: M:System.ByteSize.FromTebiBytes(System.Double)
+  name.vb: FromTebiBytes(Double)
+  fullName: System.ByteSize.FromTebiBytes(double)
+  fullName.vb: System.ByteSize.FromTebiBytes(Double)
+  nameWithType: ByteSize.FromTebiBytes(double)
+  nameWithType.vb: ByteSize.FromTebiBytes(Double)
+- uid: System.ByteSize.FromTebiBytes*
+  name: FromTebiBytes
+  href: api/System.ByteSize.html#System_ByteSize_FromTebiBytes_
+  commentId: Overload:System.ByteSize.FromTebiBytes
+  fullName: System.ByteSize.FromTebiBytes
+  nameWithType: ByteSize.FromTebiBytes
+- uid: System.ByteSize.FromTeraBytes(System.Double)
+  name: FromTeraBytes(double)
+  href: api/System.ByteSize.html#System_ByteSize_FromTeraBytes_System_Double_
+  commentId: M:System.ByteSize.FromTeraBytes(System.Double)
+  name.vb: FromTeraBytes(Double)
+  fullName: System.ByteSize.FromTeraBytes(double)
+  fullName.vb: System.ByteSize.FromTeraBytes(Double)
+  nameWithType: ByteSize.FromTeraBytes(double)
+  nameWithType.vb: ByteSize.FromTeraBytes(Double)
+- uid: System.ByteSize.FromTeraBytes*
+  name: FromTeraBytes
+  href: api/System.ByteSize.html#System_ByteSize_FromTeraBytes_
+  commentId: Overload:System.ByteSize.FromTeraBytes
+  fullName: System.ByteSize.FromTeraBytes
+  nameWithType: ByteSize.FromTeraBytes
+- uid: System.ByteSize.GetHashCode
+  name: GetHashCode()
+  href: api/System.ByteSize.html#System_ByteSize_GetHashCode
+  commentId: M:System.ByteSize.GetHashCode
+  fullName: System.ByteSize.GetHashCode()
+  nameWithType: ByteSize.GetHashCode()
+- uid: System.ByteSize.GetHashCode*
+  name: GetHashCode
+  href: api/System.ByteSize.html#System_ByteSize_GetHashCode_
+  commentId: Overload:System.ByteSize.GetHashCode
+  fullName: System.ByteSize.GetHashCode
+  nameWithType: ByteSize.GetHashCode
+- uid: System.ByteSize.GibiByteSymbol
+  name: GibiByteSymbol
+  href: api/System.ByteSize.html#System_ByteSize_GibiByteSymbol
+  commentId: F:System.ByteSize.GibiByteSymbol
+  fullName: System.ByteSize.GibiByteSymbol
+  nameWithType: ByteSize.GibiByteSymbol
+- uid: System.ByteSize.GibiBytes
+  name: GibiBytes
+  href: api/System.ByteSize.html#System_ByteSize_GibiBytes
+  commentId: P:System.ByteSize.GibiBytes
+  fullName: System.ByteSize.GibiBytes
+  nameWithType: ByteSize.GibiBytes
+- uid: System.ByteSize.GibiBytes*
+  name: GibiBytes
+  href: api/System.ByteSize.html#System_ByteSize_GibiBytes_
+  commentId: Overload:System.ByteSize.GibiBytes
+  fullName: System.ByteSize.GibiBytes
+  nameWithType: ByteSize.GibiBytes
+- uid: System.ByteSize.GigaByteSymbol
+  name: GigaByteSymbol
+  href: api/System.ByteSize.html#System_ByteSize_GigaByteSymbol
+  commentId: F:System.ByteSize.GigaByteSymbol
+  fullName: System.ByteSize.GigaByteSymbol
+  nameWithType: ByteSize.GigaByteSymbol
+- uid: System.ByteSize.GigaBytes
+  name: GigaBytes
+  href: api/System.ByteSize.html#System_ByteSize_GigaBytes
+  commentId: P:System.ByteSize.GigaBytes
+  fullName: System.ByteSize.GigaBytes
+  nameWithType: ByteSize.GigaBytes
+- uid: System.ByteSize.GigaBytes*
+  name: GigaBytes
+  href: api/System.ByteSize.html#System_ByteSize_GigaBytes_
+  commentId: Overload:System.ByteSize.GigaBytes
+  fullName: System.ByteSize.GigaBytes
+  nameWithType: ByteSize.GigaBytes
+- uid: System.ByteSize.KibiByteSymbol
+  name: KibiByteSymbol
+  href: api/System.ByteSize.html#System_ByteSize_KibiByteSymbol
+  commentId: F:System.ByteSize.KibiByteSymbol
+  fullName: System.ByteSize.KibiByteSymbol
+  nameWithType: ByteSize.KibiByteSymbol
+- uid: System.ByteSize.KibiBytes
+  name: KibiBytes
+  href: api/System.ByteSize.html#System_ByteSize_KibiBytes
+  commentId: P:System.ByteSize.KibiBytes
+  fullName: System.ByteSize.KibiBytes
+  nameWithType: ByteSize.KibiBytes
+- uid: System.ByteSize.KibiBytes*
+  name: KibiBytes
+  href: api/System.ByteSize.html#System_ByteSize_KibiBytes_
+  commentId: Overload:System.ByteSize.KibiBytes
+  fullName: System.ByteSize.KibiBytes
+  nameWithType: ByteSize.KibiBytes
+- uid: System.ByteSize.KiloByteSymbol
+  name: KiloByteSymbol
+  href: api/System.ByteSize.html#System_ByteSize_KiloByteSymbol
+  commentId: F:System.ByteSize.KiloByteSymbol
+  fullName: System.ByteSize.KiloByteSymbol
+  nameWithType: ByteSize.KiloByteSymbol
+- uid: System.ByteSize.KiloBytes
+  name: KiloBytes
+  href: api/System.ByteSize.html#System_ByteSize_KiloBytes
+  commentId: P:System.ByteSize.KiloBytes
+  fullName: System.ByteSize.KiloBytes
+  nameWithType: ByteSize.KiloBytes
+- uid: System.ByteSize.KiloBytes*
+  name: KiloBytes
+  href: api/System.ByteSize.html#System_ByteSize_KiloBytes_
+  commentId: Overload:System.ByteSize.KiloBytes
+  fullName: System.ByteSize.KiloBytes
+  nameWithType: ByteSize.KiloBytes
+- uid: System.ByteSize.Measure
+  name: ByteSize.Measure
+  href: api/System.ByteSize.Measure.html
+  commentId: T:System.ByteSize.Measure
+  fullName: System.ByteSize.Measure
+  nameWithType: ByteSize.Measure
+- uid: System.ByteSize.Measure.Byte
+  name: Byte
+  href: api/System.ByteSize.Measure.html#System_ByteSize_Measure_Byte
+  commentId: F:System.ByteSize.Measure.Byte
+  fullName: System.ByteSize.Measure.Byte
+  nameWithType: ByteSize.Measure.Byte
+- uid: System.ByteSize.Measure.GibiByte
+  name: GibiByte
+  href: api/System.ByteSize.Measure.html#System_ByteSize_Measure_GibiByte
+  commentId: F:System.ByteSize.Measure.GibiByte
+  fullName: System.ByteSize.Measure.GibiByte
+  nameWithType: ByteSize.Measure.GibiByte
+- uid: System.ByteSize.Measure.GigaByte
+  name: GigaByte
+  href: api/System.ByteSize.Measure.html#System_ByteSize_Measure_GigaByte
+  commentId: F:System.ByteSize.Measure.GigaByte
+  fullName: System.ByteSize.Measure.GigaByte
+  nameWithType: ByteSize.Measure.GigaByte
+- uid: System.ByteSize.Measure.KibiByte
+  name: KibiByte
+  href: api/System.ByteSize.Measure.html#System_ByteSize_Measure_KibiByte
+  commentId: F:System.ByteSize.Measure.KibiByte
+  fullName: System.ByteSize.Measure.KibiByte
+  nameWithType: ByteSize.Measure.KibiByte
+- uid: System.ByteSize.Measure.KiloByte
+  name: KiloByte
+  href: api/System.ByteSize.Measure.html#System_ByteSize_Measure_KiloByte
+  commentId: F:System.ByteSize.Measure.KiloByte
+  fullName: System.ByteSize.Measure.KiloByte
+  nameWithType: ByteSize.Measure.KiloByte
+- uid: System.ByteSize.Measure.MebiByte
+  name: MebiByte
+  href: api/System.ByteSize.Measure.html#System_ByteSize_Measure_MebiByte
+  commentId: F:System.ByteSize.Measure.MebiByte
+  fullName: System.ByteSize.Measure.MebiByte
+  nameWithType: ByteSize.Measure.MebiByte
+- uid: System.ByteSize.Measure.MegaByte
+  name: MegaByte
+  href: api/System.ByteSize.Measure.html#System_ByteSize_Measure_MegaByte
+  commentId: F:System.ByteSize.Measure.MegaByte
+  fullName: System.ByteSize.Measure.MegaByte
+  nameWithType: ByteSize.Measure.MegaByte
+- uid: System.ByteSize.Measure.TebiByte
+  name: TebiByte
+  href: api/System.ByteSize.Measure.html#System_ByteSize_Measure_TebiByte
+  commentId: F:System.ByteSize.Measure.TebiByte
+  fullName: System.ByteSize.Measure.TebiByte
+  nameWithType: ByteSize.Measure.TebiByte
+- uid: System.ByteSize.Measure.TeraByte
+  name: TeraByte
+  href: api/System.ByteSize.Measure.html#System_ByteSize_Measure_TeraByte
+  commentId: F:System.ByteSize.Measure.TeraByte
+  fullName: System.ByteSize.Measure.TeraByte
+  nameWithType: ByteSize.Measure.TeraByte
+- uid: System.ByteSize.Measure.Unknown
+  name: Unknown
+  href: api/System.ByteSize.Measure.html#System_ByteSize_Measure_Unknown
+  commentId: F:System.ByteSize.Measure.Unknown
+  fullName: System.ByteSize.Measure.Unknown
+  nameWithType: ByteSize.Measure.Unknown
+- uid: System.ByteSize.MebiByteSymbol
+  name: MebiByteSymbol
+  href: api/System.ByteSize.html#System_ByteSize_MebiByteSymbol
+  commentId: F:System.ByteSize.MebiByteSymbol
+  fullName: System.ByteSize.MebiByteSymbol
+  nameWithType: ByteSize.MebiByteSymbol
+- uid: System.ByteSize.MebiBytes
+  name: MebiBytes
+  href: api/System.ByteSize.html#System_ByteSize_MebiBytes
+  commentId: P:System.ByteSize.MebiBytes
+  fullName: System.ByteSize.MebiBytes
+  nameWithType: ByteSize.MebiBytes
+- uid: System.ByteSize.MebiBytes*
+  name: MebiBytes
+  href: api/System.ByteSize.html#System_ByteSize_MebiBytes_
+  commentId: Overload:System.ByteSize.MebiBytes
+  fullName: System.ByteSize.MebiBytes
+  nameWithType: ByteSize.MebiBytes
+- uid: System.ByteSize.MegaByteSymbol
+  name: MegaByteSymbol
+  href: api/System.ByteSize.html#System_ByteSize_MegaByteSymbol
+  commentId: F:System.ByteSize.MegaByteSymbol
+  fullName: System.ByteSize.MegaByteSymbol
+  nameWithType: ByteSize.MegaByteSymbol
+- uid: System.ByteSize.MegaBytes
+  name: MegaBytes
+  href: api/System.ByteSize.html#System_ByteSize_MegaBytes
+  commentId: P:System.ByteSize.MegaBytes
+  fullName: System.ByteSize.MegaBytes
+  nameWithType: ByteSize.MegaBytes
+- uid: System.ByteSize.MegaBytes*
+  name: MegaBytes
+  href: api/System.ByteSize.html#System_ByteSize_MegaBytes_
+  commentId: Overload:System.ByteSize.MegaBytes
+  fullName: System.ByteSize.MegaBytes
+  nameWithType: ByteSize.MegaBytes
+- uid: System.ByteSize.NextPowerOfTwo(System.ByteSize)
+  name: NextPowerOfTwo(ByteSize)
+  href: api/System.ByteSize.html#System_ByteSize_NextPowerOfTwo_System_ByteSize_
+  commentId: M:System.ByteSize.NextPowerOfTwo(System.ByteSize)
+  fullName: System.ByteSize.NextPowerOfTwo(System.ByteSize)
+  nameWithType: ByteSize.NextPowerOfTwo(ByteSize)
+- uid: System.ByteSize.NextPowerOfTwo(System.Int32)
+  name: NextPowerOfTwo(int)
+  href: api/System.ByteSize.html#System_ByteSize_NextPowerOfTwo_System_Int32_
+  commentId: M:System.ByteSize.NextPowerOfTwo(System.Int32)
+  name.vb: NextPowerOfTwo(Integer)
+  fullName: System.ByteSize.NextPowerOfTwo(int)
+  fullName.vb: System.ByteSize.NextPowerOfTwo(Integer)
+  nameWithType: ByteSize.NextPowerOfTwo(int)
+  nameWithType.vb: ByteSize.NextPowerOfTwo(Integer)
+- uid: System.ByteSize.NextPowerOfTwo*
+  name: NextPowerOfTwo
+  href: api/System.ByteSize.html#System_ByteSize_NextPowerOfTwo_
+  commentId: Overload:System.ByteSize.NextPowerOfTwo
+  fullName: System.ByteSize.NextPowerOfTwo
+  nameWithType: ByteSize.NextPowerOfTwo
+- uid: System.ByteSize.OfType*
+  name: OfType
+  href: api/System.ByteSize.html#System_ByteSize_OfType_
+  commentId: Overload:System.ByteSize.OfType
+  fullName: System.ByteSize.OfType
+  nameWithType: ByteSize.OfType
+- uid: System.ByteSize.OfType``1
+  name: OfType<T>()
+  href: api/System.ByteSize.html#System_ByteSize_OfType__1
+  commentId: M:System.ByteSize.OfType``1
+  name.vb: OfType(Of T)()
+  fullName: System.ByteSize.OfType<T>()
+  fullName.vb: System.ByteSize.OfType(Of T)()
+  nameWithType: ByteSize.OfType<T>()
+  nameWithType.vb: ByteSize.OfType(Of T)()
+- uid: System.ByteSize.One
+  name: One
+  href: api/System.ByteSize.html#System_ByteSize_One
+  commentId: P:System.ByteSize.One
+  fullName: System.ByteSize.One
+  nameWithType: ByteSize.One
+- uid: System.ByteSize.One*
+  name: One
+  href: api/System.ByteSize.html#System_ByteSize_One_
+  commentId: Overload:System.ByteSize.One
+  fullName: System.ByteSize.One
+  nameWithType: ByteSize.One
+- uid: System.ByteSize.TebiByteSymbol
+  name: TebiByteSymbol
+  href: api/System.ByteSize.html#System_ByteSize_TebiByteSymbol
+  commentId: F:System.ByteSize.TebiByteSymbol
+  fullName: System.ByteSize.TebiByteSymbol
+  nameWithType: ByteSize.TebiByteSymbol
+- uid: System.ByteSize.TebiBytes
+  name: TebiBytes
+  href: api/System.ByteSize.html#System_ByteSize_TebiBytes
+  commentId: P:System.ByteSize.TebiBytes
+  fullName: System.ByteSize.TebiBytes
+  nameWithType: ByteSize.TebiBytes
+- uid: System.ByteSize.TebiBytes*
+  name: TebiBytes
+  href: api/System.ByteSize.html#System_ByteSize_TebiBytes_
+  commentId: Overload:System.ByteSize.TebiBytes
+  fullName: System.ByteSize.TebiBytes
+  nameWithType: ByteSize.TebiBytes
+- uid: System.ByteSize.TeraByteSymbol
+  name: TeraByteSymbol
+  href: api/System.ByteSize.html#System_ByteSize_TeraByteSymbol
+  commentId: F:System.ByteSize.TeraByteSymbol
+  fullName: System.ByteSize.TeraByteSymbol
+  nameWithType: ByteSize.TeraByteSymbol
+- uid: System.ByteSize.TeraBytes
+  name: TeraBytes
+  href: api/System.ByteSize.html#System_ByteSize_TeraBytes
+  commentId: P:System.ByteSize.TeraBytes
+  fullName: System.ByteSize.TeraBytes
+  nameWithType: ByteSize.TeraBytes
+- uid: System.ByteSize.TeraBytes*
+  name: TeraBytes
+  href: api/System.ByteSize.html#System_ByteSize_TeraBytes_
+  commentId: Overload:System.ByteSize.TeraBytes
+  fullName: System.ByteSize.TeraBytes
+  nameWithType: ByteSize.TeraBytes
+- uid: System.ByteSize.ToString
+  name: ToString()
+  href: api/System.ByteSize.html#System_ByteSize_ToString
+  commentId: M:System.ByteSize.ToString
+  fullName: System.ByteSize.ToString()
+  nameWithType: ByteSize.ToString()
+- uid: System.ByteSize.ToString(System.ByteSize.Measure)
+  name: ToString(Measure)
+  href: api/System.ByteSize.html#System_ByteSize_ToString_System_ByteSize_Measure_
+  commentId: M:System.ByteSize.ToString(System.ByteSize.Measure)
+  fullName: System.ByteSize.ToString(System.ByteSize.Measure)
+  nameWithType: ByteSize.ToString(ByteSize.Measure)
+- uid: System.ByteSize.ToString(System.String)
+  name: ToString(string?)
+  href: api/System.ByteSize.html#System_ByteSize_ToString_System_String_
+  commentId: M:System.ByteSize.ToString(System.String)
+  name.vb: ToString(String)
+  fullName: System.ByteSize.ToString(string?)
+  fullName.vb: System.ByteSize.ToString(String)
+  nameWithType: ByteSize.ToString(string?)
+  nameWithType.vb: ByteSize.ToString(String)
+- uid: System.ByteSize.ToString(System.String,System.IFormatProvider)
+  name: ToString(string?, IFormatProvider?)
+  href: api/System.ByteSize.html#System_ByteSize_ToString_System_String_System_IFormatProvider_
+  commentId: M:System.ByteSize.ToString(System.String,System.IFormatProvider)
+  name.vb: ToString(String, IFormatProvider)
+  fullName: System.ByteSize.ToString(string?, System.IFormatProvider?)
+  fullName.vb: System.ByteSize.ToString(String, System.IFormatProvider)
+  nameWithType: ByteSize.ToString(string?, IFormatProvider?)
+  nameWithType.vb: ByteSize.ToString(String, IFormatProvider)
+- uid: System.ByteSize.ToString*
+  name: ToString
+  href: api/System.ByteSize.html#System_ByteSize_ToString_
+  commentId: Overload:System.ByteSize.ToString
+  fullName: System.ByteSize.ToString
+  nameWithType: ByteSize.ToString
+- uid: System.ByteSize.TotalBytes
+  name: TotalBytes
+  href: api/System.ByteSize.html#System_ByteSize_TotalBytes
+  commentId: P:System.ByteSize.TotalBytes
+  fullName: System.ByteSize.TotalBytes
+  nameWithType: ByteSize.TotalBytes
+- uid: System.ByteSize.TotalBytes*
+  name: TotalBytes
+  href: api/System.ByteSize.html#System_ByteSize_TotalBytes_
+  commentId: Overload:System.ByteSize.TotalBytes
+  fullName: System.ByteSize.TotalBytes
+  nameWithType: ByteSize.TotalBytes
+- uid: System.ByteSize.TryFormat(System.Span{System.Byte},System.Int32@,System.ReadOnlySpan{System.Char},System.IFormatProvider)
+  name: TryFormat(Span<byte>, out int, ReadOnlySpan<char>, IFormatProvider?)
+  href: api/System.ByteSize.html#System_ByteSize_TryFormat_System_Span_System_Byte__System_Int32__System_ReadOnlySpan_System_Char__System_IFormatProvider_
+  commentId: M:System.ByteSize.TryFormat(System.Span{System.Byte},System.Int32@,System.ReadOnlySpan{System.Char},System.IFormatProvider)
+  name.vb: TryFormat(Span(Of Byte), Integer, ReadOnlySpan(Of Char), IFormatProvider)
+  fullName: System.ByteSize.TryFormat(System.Span<byte>, out int, System.ReadOnlySpan<char>, System.IFormatProvider?)
+  fullName.vb: System.ByteSize.TryFormat(System.Span(Of Byte), Integer, System.ReadOnlySpan(Of Char), System.IFormatProvider)
+  nameWithType: ByteSize.TryFormat(Span<byte>, out int, ReadOnlySpan<char>, IFormatProvider?)
+  nameWithType.vb: ByteSize.TryFormat(Span(Of Byte), Integer, ReadOnlySpan(Of Char), IFormatProvider)
+- uid: System.ByteSize.TryFormat(System.Span{System.Char},System.Int32@,System.ReadOnlySpan{System.Char},System.IFormatProvider)
+  name: TryFormat(Span<char>, out int, ReadOnlySpan<char>, IFormatProvider?)
+  href: api/System.ByteSize.html#System_ByteSize_TryFormat_System_Span_System_Char__System_Int32__System_ReadOnlySpan_System_Char__System_IFormatProvider_
+  commentId: M:System.ByteSize.TryFormat(System.Span{System.Char},System.Int32@,System.ReadOnlySpan{System.Char},System.IFormatProvider)
+  name.vb: TryFormat(Span(Of Char), Integer, ReadOnlySpan(Of Char), IFormatProvider)
+  fullName: System.ByteSize.TryFormat(System.Span<char>, out int, System.ReadOnlySpan<char>, System.IFormatProvider?)
+  fullName.vb: System.ByteSize.TryFormat(System.Span(Of Char), Integer, System.ReadOnlySpan(Of Char), System.IFormatProvider)
+  nameWithType: ByteSize.TryFormat(Span<char>, out int, ReadOnlySpan<char>, IFormatProvider?)
+  nameWithType.vb: ByteSize.TryFormat(Span(Of Char), Integer, ReadOnlySpan(Of Char), IFormatProvider)
+- uid: System.ByteSize.TryFormat*
+  name: TryFormat
+  href: api/System.ByteSize.html#System_ByteSize_TryFormat_
+  commentId: Overload:System.ByteSize.TryFormat
+  fullName: System.ByteSize.TryFormat
+  nameWithType: ByteSize.TryFormat
+- uid: System.ByteSize.Zero
+  name: Zero
+  href: api/System.ByteSize.html#System_ByteSize_Zero
+  commentId: P:System.ByteSize.Zero
+  fullName: System.ByteSize.Zero
+  nameWithType: ByteSize.Zero
+- uid: System.ByteSize.Zero*
+  name: Zero
+  href: api/System.ByteSize.html#System_ByteSize_Zero_
+  commentId: Overload:System.ByteSize.Zero
+  fullName: System.ByteSize.Zero
+  nameWithType: ByteSize.Zero
+- uid: System.ByteSize.op_Addition(System.ByteSize,System.ByteSize)
+  name: operator +(ByteSize, ByteSize)
+  href: api/System.ByteSize.html#System_ByteSize_op_Addition_System_ByteSize_System_ByteSize_
+  commentId: M:System.ByteSize.op_Addition(System.ByteSize,System.ByteSize)
+  name.vb: +(ByteSize, ByteSize)
+  fullName: System.ByteSize.operator +(System.ByteSize, System.ByteSize)
+  fullName.vb: System.ByteSize.+(System.ByteSize, System.ByteSize)
+  nameWithType: ByteSize.operator +(ByteSize, ByteSize)
+  nameWithType.vb: ByteSize.+(ByteSize, ByteSize)
+- uid: System.ByteSize.op_Addition*
+  name: operator +
+  href: api/System.ByteSize.html#System_ByteSize_op_Addition_
+  commentId: Overload:System.ByteSize.op_Addition
+  name.vb: +
+  fullName: System.ByteSize.operator +
+  fullName.vb: System.ByteSize.+
+  nameWithType: ByteSize.operator +
+  nameWithType.vb: ByteSize.+
+- uid: System.ByteSize.op_Decrement(System.ByteSize)
+  name: operator --(ByteSize)
+  href: api/System.ByteSize.html#System_ByteSize_op_Decrement_System_ByteSize_
+  commentId: M:System.ByteSize.op_Decrement(System.ByteSize)
+  name.vb: op_Decrement(ByteSize)
+  fullName: System.ByteSize.operator --(System.ByteSize)
+  fullName.vb: System.ByteSize.op_Decrement(System.ByteSize)
+  nameWithType: ByteSize.operator --(ByteSize)
+  nameWithType.vb: ByteSize.op_Decrement(ByteSize)
+- uid: System.ByteSize.op_Decrement*
+  name: operator --
+  href: api/System.ByteSize.html#System_ByteSize_op_Decrement_
+  commentId: Overload:System.ByteSize.op_Decrement
+  name.vb: op_Decrement
+  fullName: System.ByteSize.operator --
+  fullName.vb: System.ByteSize.op_Decrement
+  nameWithType: ByteSize.operator --
+  nameWithType.vb: ByteSize.op_Decrement
+- uid: System.ByteSize.op_Division(System.ByteSize,System.Double)
+  name: operator /(ByteSize, double)
+  href: api/System.ByteSize.html#System_ByteSize_op_Division_System_ByteSize_System_Double_
+  commentId: M:System.ByteSize.op_Division(System.ByteSize,System.Double)
+  name.vb: /(ByteSize, Double)
+  fullName: System.ByteSize.operator /(System.ByteSize, double)
+  fullName.vb: System.ByteSize./(System.ByteSize, Double)
+  nameWithType: ByteSize.operator /(ByteSize, double)
+  nameWithType.vb: ByteSize./(ByteSize, Double)
+- uid: System.ByteSize.op_Division(System.ByteSize,System.Int64)
+  name: operator /(ByteSize, long)
+  href: api/System.ByteSize.html#System_ByteSize_op_Division_System_ByteSize_System_Int64_
+  commentId: M:System.ByteSize.op_Division(System.ByteSize,System.Int64)
+  name.vb: /(ByteSize, Long)
+  fullName: System.ByteSize.operator /(System.ByteSize, long)
+  fullName.vb: System.ByteSize./(System.ByteSize, Long)
+  nameWithType: ByteSize.operator /(ByteSize, long)
+  nameWithType.vb: ByteSize./(ByteSize, Long)
+- uid: System.ByteSize.op_Division*
+  name: operator /
+  href: api/System.ByteSize.html#System_ByteSize_op_Division_
+  commentId: Overload:System.ByteSize.op_Division
+  name.vb: /
+  fullName: System.ByteSize.operator /
+  fullName.vb: System.ByteSize./
+  nameWithType: ByteSize.operator /
+  nameWithType.vb: ByteSize./
+- uid: System.ByteSize.op_Equality(System.ByteSize,System.ByteSize)
+  name: operator ==(ByteSize, ByteSize)
+  href: api/System.ByteSize.html#System_ByteSize_op_Equality_System_ByteSize_System_ByteSize_
+  commentId: M:System.ByteSize.op_Equality(System.ByteSize,System.ByteSize)
+  name.vb: =(ByteSize, ByteSize)
+  fullName: System.ByteSize.operator ==(System.ByteSize, System.ByteSize)
+  fullName.vb: System.ByteSize.=(System.ByteSize, System.ByteSize)
+  nameWithType: ByteSize.operator ==(ByteSize, ByteSize)
+  nameWithType.vb: ByteSize.=(ByteSize, ByteSize)
+- uid: System.ByteSize.op_Equality*
+  name: operator ==
+  href: api/System.ByteSize.html#System_ByteSize_op_Equality_
+  commentId: Overload:System.ByteSize.op_Equality
+  name.vb: =
+  fullName: System.ByteSize.operator ==
+  fullName.vb: System.ByteSize.=
+  nameWithType: ByteSize.operator ==
+  nameWithType.vb: ByteSize.=
+- uid: System.ByteSize.op_Explicit(System.Byte)~System.ByteSize
+  name: explicit operator ByteSize(byte)
+  href: api/System.ByteSize.html#System_ByteSize_op_Explicit_System_Byte__System_ByteSize
+  commentId: M:System.ByteSize.op_Explicit(System.Byte)~System.ByteSize
+  name.vb: CType(Byte)
+  fullName: System.ByteSize.explicit operator System.ByteSize(byte)
+  fullName.vb: System.ByteSize.CType(Byte)
+  nameWithType: ByteSize.explicit operator ByteSize(byte)
+  nameWithType.vb: ByteSize.CType(Byte)
+- uid: System.ByteSize.op_Explicit(System.ByteSize)~System.Int32
+  name: explicit operator int(ByteSize)
+  href: api/System.ByteSize.html#System_ByteSize_op_Explicit_System_ByteSize__System_Int32
+  commentId: M:System.ByteSize.op_Explicit(System.ByteSize)~System.Int32
+  name.vb: CType(ByteSize)
+  fullName: System.ByteSize.explicit operator int(System.ByteSize)
+  fullName.vb: System.ByteSize.CType(System.ByteSize)
+  nameWithType: ByteSize.explicit operator int(ByteSize)
+  nameWithType.vb: ByteSize.CType(ByteSize)
+- uid: System.ByteSize.op_Explicit(System.ByteSize)~System.Int64
+  name: explicit operator long(ByteSize)
+  href: api/System.ByteSize.html#System_ByteSize_op_Explicit_System_ByteSize__System_Int64
+  commentId: M:System.ByteSize.op_Explicit(System.ByteSize)~System.Int64
+  name.vb: CType(ByteSize)
+  fullName: System.ByteSize.explicit operator long(System.ByteSize)
+  fullName.vb: System.ByteSize.CType(System.ByteSize)
+  nameWithType: ByteSize.explicit operator long(ByteSize)
+  nameWithType.vb: ByteSize.CType(ByteSize)
+- uid: System.ByteSize.op_Explicit(System.Int16)~System.ByteSize
+  name: explicit operator ByteSize(short)
+  href: api/System.ByteSize.html#System_ByteSize_op_Explicit_System_Int16__System_ByteSize
+  commentId: M:System.ByteSize.op_Explicit(System.Int16)~System.ByteSize
+  name.vb: CType(Short)
+  fullName: System.ByteSize.explicit operator System.ByteSize(short)
+  fullName.vb: System.ByteSize.CType(Short)
+  nameWithType: ByteSize.explicit operator ByteSize(short)
+  nameWithType.vb: ByteSize.CType(Short)
+- uid: System.ByteSize.op_Explicit(System.Int32)~System.ByteSize
+  name: explicit operator ByteSize(int)
+  href: api/System.ByteSize.html#System_ByteSize_op_Explicit_System_Int32__System_ByteSize
+  commentId: M:System.ByteSize.op_Explicit(System.Int32)~System.ByteSize
+  name.vb: CType(Integer)
+  fullName: System.ByteSize.explicit operator System.ByteSize(int)
+  fullName.vb: System.ByteSize.CType(Integer)
+  nameWithType: ByteSize.explicit operator ByteSize(int)
+  nameWithType.vb: ByteSize.CType(Integer)
+- uid: System.ByteSize.op_Explicit(System.Int64)~System.ByteSize
+  name: explicit operator ByteSize(long)
+  href: api/System.ByteSize.html#System_ByteSize_op_Explicit_System_Int64__System_ByteSize
+  commentId: M:System.ByteSize.op_Explicit(System.Int64)~System.ByteSize
+  name.vb: CType(Long)
+  fullName: System.ByteSize.explicit operator System.ByteSize(long)
+  fullName.vb: System.ByteSize.CType(Long)
+  nameWithType: ByteSize.explicit operator ByteSize(long)
+  nameWithType.vb: ByteSize.CType(Long)
+- uid: System.ByteSize.op_Explicit(System.SByte)~System.ByteSize
+  name: explicit operator ByteSize(sbyte)
+  href: api/System.ByteSize.html#System_ByteSize_op_Explicit_System_SByte__System_ByteSize
+  commentId: M:System.ByteSize.op_Explicit(System.SByte)~System.ByteSize
+  name.vb: CType(SByte)
+  fullName: System.ByteSize.explicit operator System.ByteSize(sbyte)
+  fullName.vb: System.ByteSize.CType(SByte)
+  nameWithType: ByteSize.explicit operator ByteSize(sbyte)
+  nameWithType.vb: ByteSize.CType(SByte)
+- uid: System.ByteSize.op_Explicit(System.UInt16)~System.ByteSize
+  name: explicit operator ByteSize(ushort)
+  href: api/System.ByteSize.html#System_ByteSize_op_Explicit_System_UInt16__System_ByteSize
+  commentId: M:System.ByteSize.op_Explicit(System.UInt16)~System.ByteSize
+  name.vb: CType(UShort)
+  fullName: System.ByteSize.explicit operator System.ByteSize(ushort)
+  fullName.vb: System.ByteSize.CType(UShort)
+  nameWithType: ByteSize.explicit operator ByteSize(ushort)
+  nameWithType.vb: ByteSize.CType(UShort)
+- uid: System.ByteSize.op_Explicit(System.UInt32)~System.ByteSize
+  name: explicit operator ByteSize(uint)
+  href: api/System.ByteSize.html#System_ByteSize_op_Explicit_System_UInt32__System_ByteSize
+  commentId: M:System.ByteSize.op_Explicit(System.UInt32)~System.ByteSize
+  name.vb: CType(UInteger)
+  fullName: System.ByteSize.explicit operator System.ByteSize(uint)
+  fullName.vb: System.ByteSize.CType(UInteger)
+  nameWithType: ByteSize.explicit operator ByteSize(uint)
+  nameWithType.vb: ByteSize.CType(UInteger)
+- uid: System.ByteSize.op_Explicit*
+  name: explicit operator
+  href: api/System.ByteSize.html#System_ByteSize_op_Explicit_
+  commentId: Overload:System.ByteSize.op_Explicit
+  isSpec: "True"
+  name.vb: CType
+  fullName: System.ByteSize.explicit operator
+  fullName.vb: System.ByteSize.CType
+  nameWithType: ByteSize.explicit operator
+  nameWithType.vb: ByteSize.CType
+- uid: System.ByteSize.op_GreaterThan(System.ByteSize,System.ByteSize)
+  name: operator >(ByteSize, ByteSize)
+  href: api/System.ByteSize.html#System_ByteSize_op_GreaterThan_System_ByteSize_System_ByteSize_
+  commentId: M:System.ByteSize.op_GreaterThan(System.ByteSize,System.ByteSize)
+  name.vb: '>(ByteSize, ByteSize)'
+  fullName: System.ByteSize.operator >(System.ByteSize, System.ByteSize)
+  fullName.vb: System.ByteSize.>(System.ByteSize, System.ByteSize)
+  nameWithType: ByteSize.operator >(ByteSize, ByteSize)
+  nameWithType.vb: ByteSize.>(ByteSize, ByteSize)
+- uid: System.ByteSize.op_GreaterThan*
+  name: operator >
+  href: api/System.ByteSize.html#System_ByteSize_op_GreaterThan_
+  commentId: Overload:System.ByteSize.op_GreaterThan
+  name.vb: '>'
+  fullName: System.ByteSize.operator >
+  fullName.vb: System.ByteSize.>
+  nameWithType: ByteSize.operator >
+  nameWithType.vb: ByteSize.>
+- uid: System.ByteSize.op_GreaterThanOrEqual(System.ByteSize,System.ByteSize)
+  name: operator >=(ByteSize, ByteSize)
+  href: api/System.ByteSize.html#System_ByteSize_op_GreaterThanOrEqual_System_ByteSize_System_ByteSize_
+  commentId: M:System.ByteSize.op_GreaterThanOrEqual(System.ByteSize,System.ByteSize)
+  name.vb: '>=(ByteSize, ByteSize)'
+  fullName: System.ByteSize.operator >=(System.ByteSize, System.ByteSize)
+  fullName.vb: System.ByteSize.>=(System.ByteSize, System.ByteSize)
+  nameWithType: ByteSize.operator >=(ByteSize, ByteSize)
+  nameWithType.vb: ByteSize.>=(ByteSize, ByteSize)
+- uid: System.ByteSize.op_GreaterThanOrEqual*
+  name: operator >=
+  href: api/System.ByteSize.html#System_ByteSize_op_GreaterThanOrEqual_
+  commentId: Overload:System.ByteSize.op_GreaterThanOrEqual
+  name.vb: '>='
+  fullName: System.ByteSize.operator >=
+  fullName.vb: System.ByteSize.>=
+  nameWithType: ByteSize.operator >=
+  nameWithType.vb: ByteSize.>=
+- uid: System.ByteSize.op_Increment(System.ByteSize)
+  name: operator ++(ByteSize)
+  href: api/System.ByteSize.html#System_ByteSize_op_Increment_System_ByteSize_
+  commentId: M:System.ByteSize.op_Increment(System.ByteSize)
+  name.vb: op_Increment(ByteSize)
+  fullName: System.ByteSize.operator ++(System.ByteSize)
+  fullName.vb: System.ByteSize.op_Increment(System.ByteSize)
+  nameWithType: ByteSize.operator ++(ByteSize)
+  nameWithType.vb: ByteSize.op_Increment(ByteSize)
+- uid: System.ByteSize.op_Increment*
+  name: operator ++
+  href: api/System.ByteSize.html#System_ByteSize_op_Increment_
+  commentId: Overload:System.ByteSize.op_Increment
+  name.vb: op_Increment
+  fullName: System.ByteSize.operator ++
+  fullName.vb: System.ByteSize.op_Increment
+  nameWithType: ByteSize.operator ++
+  nameWithType.vb: ByteSize.op_Increment
+- uid: System.ByteSize.op_Inequality(System.ByteSize,System.ByteSize)
+  name: operator !=(ByteSize, ByteSize)
+  href: api/System.ByteSize.html#System_ByteSize_op_Inequality_System_ByteSize_System_ByteSize_
+  commentId: M:System.ByteSize.op_Inequality(System.ByteSize,System.ByteSize)
+  name.vb: <>(ByteSize, ByteSize)
+  fullName: System.ByteSize.operator !=(System.ByteSize, System.ByteSize)
+  fullName.vb: System.ByteSize.<>(System.ByteSize, System.ByteSize)
+  nameWithType: ByteSize.operator !=(ByteSize, ByteSize)
+  nameWithType.vb: ByteSize.<>(ByteSize, ByteSize)
+- uid: System.ByteSize.op_Inequality*
+  name: operator !=
+  href: api/System.ByteSize.html#System_ByteSize_op_Inequality_
+  commentId: Overload:System.ByteSize.op_Inequality
+  name.vb: <>
+  fullName: System.ByteSize.operator !=
+  fullName.vb: System.ByteSize.<>
+  nameWithType: ByteSize.operator !=
+  nameWithType.vb: ByteSize.<>
+- uid: System.ByteSize.op_LessThan(System.ByteSize,System.ByteSize)
+  name: operator <(ByteSize, ByteSize)
+  href: api/System.ByteSize.html#System_ByteSize_op_LessThan_System_ByteSize_System_ByteSize_
+  commentId: M:System.ByteSize.op_LessThan(System.ByteSize,System.ByteSize)
+  name.vb: <(ByteSize, ByteSize)
+  fullName: System.ByteSize.operator <(System.ByteSize, System.ByteSize)
+  fullName.vb: System.ByteSize.<(System.ByteSize, System.ByteSize)
+  nameWithType: ByteSize.operator <(ByteSize, ByteSize)
+  nameWithType.vb: ByteSize.<(ByteSize, ByteSize)
+- uid: System.ByteSize.op_LessThan*
+  name: operator <
+  href: api/System.ByteSize.html#System_ByteSize_op_LessThan_
+  commentId: Overload:System.ByteSize.op_LessThan
+  name.vb: <
+  fullName: System.ByteSize.operator <
+  fullName.vb: System.ByteSize.<
+  nameWithType: ByteSize.operator <
+  nameWithType.vb: ByteSize.<
+- uid: System.ByteSize.op_LessThanOrEqual(System.ByteSize,System.ByteSize)
+  name: operator <=(ByteSize, ByteSize)
+  href: api/System.ByteSize.html#System_ByteSize_op_LessThanOrEqual_System_ByteSize_System_ByteSize_
+  commentId: M:System.ByteSize.op_LessThanOrEqual(System.ByteSize,System.ByteSize)
+  name.vb: <=(ByteSize, ByteSize)
+  fullName: System.ByteSize.operator <=(System.ByteSize, System.ByteSize)
+  fullName.vb: System.ByteSize.<=(System.ByteSize, System.ByteSize)
+  nameWithType: ByteSize.operator <=(ByteSize, ByteSize)
+  nameWithType.vb: ByteSize.<=(ByteSize, ByteSize)
+- uid: System.ByteSize.op_LessThanOrEqual*
+  name: operator <=
+  href: api/System.ByteSize.html#System_ByteSize_op_LessThanOrEqual_
+  commentId: Overload:System.ByteSize.op_LessThanOrEqual
+  name.vb: <=
+  fullName: System.ByteSize.operator <=
+  fullName.vb: System.ByteSize.<=
+  nameWithType: ByteSize.operator <=
+  nameWithType.vb: ByteSize.<=
+- uid: System.ByteSize.op_Multiply(System.ByteSize,System.Int64)
+  name: operator *(ByteSize, long)
+  href: api/System.ByteSize.html#System_ByteSize_op_Multiply_System_ByteSize_System_Int64_
+  commentId: M:System.ByteSize.op_Multiply(System.ByteSize,System.Int64)
+  name.vb: '*(ByteSize, Long)'
+  fullName: System.ByteSize.operator *(System.ByteSize, long)
+  fullName.vb: System.ByteSize.*(System.ByteSize, Long)
+  nameWithType: ByteSize.operator *(ByteSize, long)
+  nameWithType.vb: ByteSize.*(ByteSize, Long)
+- uid: System.ByteSize.op_Multiply(System.Int64,System.ByteSize)
+  name: operator *(long, ByteSize)
+  href: api/System.ByteSize.html#System_ByteSize_op_Multiply_System_Int64_System_ByteSize_
+  commentId: M:System.ByteSize.op_Multiply(System.Int64,System.ByteSize)
+  name.vb: '*(Long, ByteSize)'
+  fullName: System.ByteSize.operator *(long, System.ByteSize)
+  fullName.vb: System.ByteSize.*(Long, System.ByteSize)
+  nameWithType: ByteSize.operator *(long, ByteSize)
+  nameWithType.vb: ByteSize.*(Long, ByteSize)
+- uid: System.ByteSize.op_Multiply*
+  name: operator *
+  href: api/System.ByteSize.html#System_ByteSize_op_Multiply_
+  commentId: Overload:System.ByteSize.op_Multiply
+  name.vb: '*'
+  fullName: System.ByteSize.operator *
+  fullName.vb: System.ByteSize.*
+  nameWithType: ByteSize.operator *
+  nameWithType.vb: ByteSize.*
+- uid: System.ByteSize.op_Subtraction(System.ByteSize,System.ByteSize)
+  name: operator -(ByteSize, ByteSize)
+  href: api/System.ByteSize.html#System_ByteSize_op_Subtraction_System_ByteSize_System_ByteSize_
+  commentId: M:System.ByteSize.op_Subtraction(System.ByteSize,System.ByteSize)
+  name.vb: -(ByteSize, ByteSize)
+  fullName: System.ByteSize.operator -(System.ByteSize, System.ByteSize)
+  fullName.vb: System.ByteSize.-(System.ByteSize, System.ByteSize)
+  nameWithType: ByteSize.operator -(ByteSize, ByteSize)
+  nameWithType.vb: ByteSize.-(ByteSize, ByteSize)
+- uid: System.ByteSize.op_Subtraction*
+  name: operator -
+  href: api/System.ByteSize.html#System_ByteSize_op_Subtraction_
+  commentId: Overload:System.ByteSize.op_Subtraction
+  name.vb: '-'
+  fullName: System.ByteSize.operator -
+  fullName.vb: System.ByteSize.-
+  nameWithType: ByteSize.operator -
+  nameWithType.vb: ByteSize.-
